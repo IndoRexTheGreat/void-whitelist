@@ -1,9 +1,4 @@
 {
-  "v": 1,
-  "links": [
-    {
-      "link": "https://url.com",
-      "title": "Title Words"
-    }
-  ]
+  "v": 2,
+  "links": []
 }
